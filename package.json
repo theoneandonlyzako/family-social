@@ -1,0 +1,27 @@
+{
+  "name": "family-social",
+  "version": "1.0.0",
+  "description": "challenge 18 homework - social media app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoneandonlyzako/family-social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessalane/social-media-api/issues"
+  },
+  "homepage": "https://github.com/theoneandonlyzako/family-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
